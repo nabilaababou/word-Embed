@@ -6,7 +6,7 @@
         10,
         128
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "tensorPath": "https://github.com/nabilaababou/word-Embed/blob/main/DATP.TSV",
       "metadataPath": "https://github.com/nabilaababou/word-Embed/blob/main/wordsP.TSV"
       
     }
