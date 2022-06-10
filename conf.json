@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My Stensor",
+      "tensorShape": [
+        10,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }
+  ]
+}
