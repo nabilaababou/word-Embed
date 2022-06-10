@@ -3,7 +3,7 @@
     {
       "tensorName": "My Stensor",
       "tensorShape": [
-        10,
+        66438,
         128
       ],
       "tensorPath": "https://nabil.aababou.com/web/DAT.TSV",
