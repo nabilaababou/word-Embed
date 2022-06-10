@@ -6,8 +6,8 @@
         10,
         128
       ],
-      "tensorPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/blob/main/DATP.TSV",
-      "metadataPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/blob/main/wordsP.TSV"
+      "tensorPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/master/DATP.TSV",
+      "metadataPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/master/wordsP.TSV"
       
     }
   ]
