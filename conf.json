@@ -6,8 +6,8 @@
         10,
         128
       ],
-      "tensorPath": "https://aababou.com/nabil/web/DATP.TSV",
-            "metadataPath": "https://aababou.com/nabil/web/wordsP.TSV"
+      "tensorPath": "https://raw.aababou.com/nabil/web/DATP.TSV",
+            "metadataPath": "https://raw.aababou.com/nabil/web/wordsP.TSV"
       
     }
   ]
