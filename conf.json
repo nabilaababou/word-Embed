@@ -3,11 +3,11 @@
     {
       "tensorName": "My Stensor",
       "tensorShape": [
-        66438,
+        10,
         128
       ],
-      "tensorPath": "https://aababou.com/nabil/web/DAT.TSV",
-            "metadataPath": "https://aababou.com/nabil/web/words.TSV"
+      "tensorPath": "https://aababou.com/nabil/web/DATP.TSV",
+            "metadataPath": "https://aababou.com/nabil/web/wordsP.TSV"
       
     }
   ]
