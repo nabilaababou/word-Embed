@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/master//word2vec_w2_10k_50d.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/master/word2vec_w2_10k_50d.tsv",
       "metadataPath": "https://raw.githubusercontent.com/nabilaababou/word-Embed/master/word2vec_w2_10k.tsv"
     }
   ]
